@@ -64,19 +64,19 @@ I'm a full-stack developer with 4+ years of hands-on experience building robust 
 #### 🎬 Netflix Clone  
 > React + Tailwind + Open API  
 A sleek Netflix-style UI with genre-based browsing. Built to explore component-based architecture and external APIs.  
-🔗 [View Repo](https://github.com/mianzhb/netflix-clone)
+🔗 [View Repo](https://github.com/zhburr/netflix-clone)
 
 #### 💬 Chat App (Client/Server)  
 > React + Node.js + Express  
 A full-stack real-time chat app with user auth and sockets (WIP).  
-🔗 [Client Repo](https://github.com/mianzhb/client_chat_app)  
-🔗 [Server Repo](https://github.com/mianzhb/server_chat_app)
+🔗 [Client Repo](https://github.com/zhburr/client_chat_app)  
+🔗 [Server Repo](https://github.com/zhburr/server_chat_app)
 
 #### 🏢 B2B Business Platform  
 > Angular + NestJS  
 A complete logistics/order platform with CSV parsing, Stripe integration, and RBAC.  
-🔗 [Frontend](https://github.com/mianzhb/b2b_front)  
-🔗 [Backend](https://github.com/mianzhb/b2b_nest)
+🔗 [Frontend](https://github.com/zhburr/b2b_front)  
+🔗 [Backend](https://github.com/zhburr/b2b_nest)
 
 ---
 
