@@ -3,7 +3,7 @@
 
 🧠 Frontend-leaning Full-Stack Developer | Angular • React • Node.js  
 🚀 Passionate about solving real-world problems with clean, scalable code  
-📬 [Email](mailto:mianzhb@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mianzhb/)
+📬 [Email](mailto:mianzhb@gmail.com) (Mianzhb@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mianzhb/)
 
 ---
 
